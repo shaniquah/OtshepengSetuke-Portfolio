@@ -1,38 +1,62 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# My Software Developer Portfolio
 
-## Getting Started
+Welcome to my Software Developer Portfolio! This project is a showcase of my skills, projects, and experiences as a software developer.
 
-First, run the development server:
+## Table of Contents
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-```
+- [About Me](#about-me)
+- [Projects](#projects)
+- [Skills](#skills)
+- [Contact](#contact)
+  
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## About Me
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+Hi, I am Otshepeng Setuke. I am a passionate and driven software developer with a strong background in web application development. My journey in the world of software development has been fueled by a deep curiosity and a desire to create innovative solutions that make a positive impact. I specialize in both front-end and back-end development, constantly embracing new technologies and staying attuned to industry trends.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
+My career path as a young professional has equipped me with a solid foundation in software development, along with expertise in Git/GitHub, documentation, quality assurance, and agile methodologies. This journey has been driven by my unwavering passion for technology and an unyielding commitment to excellence.
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+I am dedicated to contributing innovative solutions and delivering high-quality results, qualities that have been instrumental in my pursuit of success in this dynamic and ever-evolving field. My ultimate goal is to leverage my skills and experiences to make a meaningful impact and continue thriving in the exciting and ever-changing world of software development.
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+With a blend of enthusiasm and expertise, I'm ready to take on new challenges and contribute to cutting-edge projects that shape the future of technology.
 
-## Learn More
+## Projects
 
-To learn more about Next.js, take a look at the following resources:
+Here are some of the projects I've worked on:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+- [**Web Calendar**:](https://github.com/shaniquah/IWA17.git)
+  - Description: A web calendar application that automatically calculates the current month and day and displays all dates in a grid format.
+  - Technologies Used: HTML(16.6%), CSS(20.5%), and JavaScript(62.9%) using Visual Studio Code IDE and Google Chrome web browser.
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+- [**Events Web App**:](https://github.com/shaniquah/udemy-nextjs.git)
+  - Description: An Android app designed to serve as an example of building a dynamic events web application with Next.js and React.js. Users can explore events and interact with event details.
+  - Technologies Used: JavaScript(74.4%), CSS(25.6%), Next.js, React.js, Firebase, MongoDB.
 
-## Deploy on Vercel
+- [**Blog**:](https://github.com/shaniquah/udemy-nextjs-blog.git)
+  - Description: A fully functional blog built A to Z using NextJS & ReactJS featuring user authentication, CRUD operations for blog posts, responsive design, SEO optimization, and more.
+  - Technologies Used: Next.js, React.js, Node.js, MongoDB (optional).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+These projects represent just a glimpse of my work. You can explore more of my projects in the [Projects](#projects) section of my portfolio.
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## Skills
+
+I possess a wide range of skills, including:
+
+- **Front-end Development**: HTML, CSS, JavaScript, React.js, Next.js
+- **Back-end Development**: Node.js, NPM
+- **Database Management**: MongoDB, Firebase, Supabase
+- **Audio Programming**: Sonic Pi
+- **Version Control**: Git, GitHub
+- **Code Editor**: Visual Studio Code (VS Code)
+- **Deployment**: Vercel, AWS, Netlify
+- **UI/UX Design**: Figma
+- **Collaboration**: Miro, Slack, Discord
+- **Agile Development**: Visual Studio
+
+I am always eager to expand my skill set and take on new challenges.
+
+## Contact
+
+I'm open to collaboration and new opportunities. If you'd like to get in touch, you can reach me at [or.setuke@gmail.com](mailto:or.setuke@gmail.com). Let's connect and explore how we can work together to create amazing software solutions.
+
+Thank you for visiting my portfolio!
